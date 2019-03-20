@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.osychenkoyuriy.tinkoff.customerservice.CustomerserviceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 19.8 s - in com.osychenkoyuriy.tinkoff.customerservice.CustomerserviceApplicationTests
